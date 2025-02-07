@@ -1,16 +1,27 @@
-## Hi there 👋
+Olá, eu sou Davy!
 
-<!--
-**davyswtz/davyswtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Full Stack
 
-Here are some ideas to get you started:
+Seja bem-vindo ao meu GitHub! Sou um desenvolvedor Full Stack apaixonado por tecnologia e resolução de problemas, sempre buscando aprimorar minhas habilidades e contribuir com projetos inovadores.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tecnologias
+
+Backend:☕ Java (Spring Boot, Hibernate, JPA)🟢 Node.js
+
+Frontend:📜 JavaScript (ES6+)🎨 HTML5 & CSS3🅰️ Angular
+
+Banco de Dados:🐘 PostgreSQL🐬 MySQL🗄️ SQL
+
+📬 Contato
+
+Quer trocar uma ideia sobre desenvolvimento ou colaborar em projetos? Fique à vontade para me chamar!
+
+@RestController
+@RequestMapping("/api")
+public class HelloController {
+
+    @GetMapping("/hello")
+    public String hello() {
+        return "Olá, bem-vindo ao meu GitHub!";
+    }
+}
