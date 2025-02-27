@@ -1,28 +1,11 @@
-<h2 align="left">lá! 👋 Bem-vindo ao meu GitHub
+<h2 align="left">SEJA BEM VINDO. ME CHAMO DAVY E SOU DESENVOLVEDOR FULLSTACK</h2>
 
-Sou um desenvolvedor Full Stack com maior foco no Back-End. Atualmente, trabalho na PD Case, uma empresa especializada em soluções de software. Estou sempre em busca de aprimorar meus conhecimentos e criar projetos que resolvam problemas reais!
+###
 
-🛠️ Tecnologias e Ferramentas:
-
-Back-End: Java, PostgreSQL
-
-Front-End: JavaScript, HTML, CSS, Angular
-
-📈 Sobre mim:
-
-🎯 Apaixonado por desenvolvimento de software e arquitetura de sistemas.
-
-📚 Estudante dedicado, sempre buscando aprender novas tecnologias e melhores práticas.
-
-🤝 Colaborativo e sempre disposto a ajudar a comunidade de desenvolvedores.
-
-🚀 Projetos
-
-Aqui você encontrará repositórios com projetos pessoais, estudos e experimentos. Fique à vontade para explorar, contribuir ou trocar ideias!
-
-Se quiser trocar uma ideia ou colaborar em algum projeto, é só chamar!
-
-</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=davyswtz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davyswtz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -35,26 +18,43 @@ Se quiser trocar uma ideia ou colaborar em algum projeto, é só chamar!
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://i.pinimg.com/originals/2d/1f/ae/2d1fae57a881aedeb10db7890cfad2a0.gif"  />
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <a href="https://www.youtube.com/@davydeveloper" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://instagram/davy.dev_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.gg/byswetz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="davypandrade123@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/davy-andrade-55812a2b5/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
 
-<img align="right" height="150" src=""  />
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/davyswtz/davyswtz/output/snake.svg" alt="Snake animation" />
 
 ###
