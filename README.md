@@ -1,4 +1,28 @@
-<h2 align="left">Ola, me chamo davy e sou desenvolvedor fullstack</h2>
+<h2 align="left">lá! 👋 Bem-vindo ao meu GitHub
+
+Sou um desenvolvedor Full Stack com maior foco no Back-End. Atualmente, trabalho na PD Case, uma empresa especializada em soluções de software. Estou sempre em busca de aprimorar meus conhecimentos e criar projetos que resolvam problemas reais!
+
+🛠️ Tecnologias e Ferramentas:
+
+Back-End: Java, PostgreSQL
+
+Front-End: JavaScript, HTML, CSS, Angular
+
+📈 Sobre mim:
+
+🎯 Apaixonado por desenvolvimento de software e arquitetura de sistemas.
+
+📚 Estudante dedicado, sempre buscando aprender novas tecnologias e melhores práticas.
+
+🤝 Colaborativo e sempre disposto a ajudar a comunidade de desenvolvedores.
+
+🚀 Projetos
+
+Aqui você encontrará repositórios com projetos pessoais, estudos e experimentos. Fique à vontade para explorar, contribuir ou trocar ideias!
+
+Se quiser trocar uma ideia ou colaborar em algum projeto, é só chamar!
+
+</h2>
 
 ###
 
