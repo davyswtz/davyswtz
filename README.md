@@ -55,6 +55,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/davyswtz/davyswtz/output/snake.svg" alt="Snake animation" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=davyswtz.davyswtz&"  />
 
 ###
