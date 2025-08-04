@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/iJ2xThOZQpFLO/giphy.gif" width="300"/>
+</p>
+
 <h1 align="center">👋 Olá! Eu sou o Davy Andrade</h1>
 
 <p align="center">
