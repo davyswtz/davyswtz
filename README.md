@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fgaara-gifs&psig=AOvVaw023cqQ2XeYpvMstLBcIt22&ust=1754432716585000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCWkKmZ8o4DFQAAAAAdAAAAABAM" width="300"/>
+  <img src="https://media.tenor.com/zYrVdG9H7h8AAAAC/gaara-naruto.gif" width="320"/>
 </p>
 
 <h1 align="center">👋 Olá! Eu sou o Davy Andrade</h1>
@@ -74,8 +74,8 @@ Atualmente atuo com back-end utilizando Java e Spring Boot, e estou em constante
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davy-andrade-55812a2b5/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davypandrade123@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davy-andrade-55812a2b5/)  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davypandrade123@gmail.com)  
 [![Instagram](https://img.shields.io/badge/@davy.dev_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/davy.dev_)
 
 </div>
