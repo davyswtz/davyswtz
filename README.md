@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/iJ2xThOZQpFLO/giphy.gif" width="300"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fgaara-gifs&psig=AOvVaw023cqQ2XeYpvMstLBcIt22&ust=1754432716585000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCWkKmZ8o4DFQAAAAAdAAAAABAM" width="300"/>
 </p>
 
 <h1 align="center">👋 Olá! Eu sou o Davy Andrade</h1>
