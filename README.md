@@ -17,7 +17,7 @@ Atualmente trabalho com **Java + Spring Boot** e estou evoluindo para me tornar 
 
 | 💻 Linguagens | ⚙️ Back-end | 🎨 Front-end | 🛠️ Ferramentas |
 |---------------|------------|--------------|----------------|
-| Java ☕, Python 🐍, JavaScript ⚡, TypeScript, Dart 🦄 | Spring Boot 🍃, JPA/Hibernate, PostgreSQL 🐘, MySQL | Angular 🔺, Flutter 💙, HTML5, CSS3 | Git & GitHub 🐙, Docker 🐳, Notion, Figma 🎨 |
+| Java ☕, Python 🐍, JavaScript ⚡, TypeScript, Dart 🦄, SQL | Spring Boot 🍃, JPA/Hibernate, JSP, JSF, PostgreSQL 🐘, MySQL | Angular 🔺, Flutter 💙, HTML5, CSS3 | Git & GitHub 🐙, Docker 🐳, Notion, Figma 🎨 |
 
 </div>
 
@@ -40,8 +40,11 @@ Atualmente trabalho com **Java + Spring Boot** e estou evoluindo para me tornar 
   <a href="https://www.linkedin.com/in/seu-linkedin">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:davypandrade123@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/davy.dev_">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
