@@ -1,55 +1,71 @@
-<h1 align="center">✨ Davy Andrade ✨</h1>
+<h1 align="center">Davy Andrade</h1>
+<p align="center">Founder & Software Engineer</p>
+
 <p align="center">
-  🚀 Desenvolvedor Backend | 🎓 Engenharia de Software | 🎮 Gamer & Criador
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-follow-181717?style=flat&logo=github" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
-Sou apaixonado por tecnologia, games e criação de projetos que unem **programação, lifestyle saudável e aprendizado contínuo**.  
-Atualmente trabalho com **Java + Spring Boot** e estou evoluindo para me tornar um **Engenheiro de Software completo**.  
+### Sobre
 
----
+Engenheiro de software com foco em backend, infraestrutura e desenvolvimento mobile nativo. Atuo desde a arquitetura de APIs até o deploy em produção, liderando times técnicos e construindo produtos de ponta a ponta.
 
-## ⚡ Tecnologias que uso
+### Skills & Tecnologias
 
-<div align="center">
+**Backend**
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+</p>
 
-| 💻 Linguagens | ⚙️ Back-end | 🎨 Front-end | 🛠️ Ferramentas |
-|---------------|------------|--------------|----------------|
-| Java ☕, Python 🐍, JavaScript ⚡, TypeScript, Dart 🦄, SQL | Spring Boot 🍃, JPA/Hibernate, JSP, JSF, PostgreSQL 🐘, MySQL | Angular 🔺, Flutter 💙, HTML5, CSS3 | Git & GitHub 🐙, Docker 🐳, Notion, Figma 🎨 |
+**Mobile & Frontend**
+<p>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black" />
+</p>
 
-</div>
+**Documentação & APIs**
+<p>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=flat&logo=fastapi&logoColor=white" />
+</p>
 
----
+**Banco de dados & Infra**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+</p>
 
-## 📊 Estatísticas do GitHub
+### Focos atuais
 
-<div align="center">
+- Arquitetura e desenvolvimento de APIs (Laravel e FastAPI)
+- Desenvolvimento mobile nativo (iOS/Swift) e cross-platform (React Native)
+- Infraestrutura e deploy (Docker, VPS, CI/CD)
+- Liderança técnica de times de engenharia
 
-<img src="https://github-readme-stats.vercel.app/api?username=davyandrade&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davyandrade&layout=compact&theme=radical&hide_border=true" height="150"/>
+### Principais projetos
 
-</div>
+**RotinaPlus** — Produto com backend em Laravel servindo um app iOS nativo e um app Android em React Native. Responsável pela arquitetura, infraestrutura (VPS com Docker, Nginx, Redis) e liderança do time de desenvolvimento.
 
----
+### GitHub
 
-## 🌎 Conecte-se comigo
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:davypandrade123@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/davy.dev_">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
-  </a>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=davyswtz&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davyswtz&theme=default&hide_border=true" height="165" />
 </p>
 
 ---
 
 <p align="center">
-  🌟 “Código é como poesia — a beleza está em deixá-lo simples, elegante e funcional.” 🌟
+  <sub>Código é como poesia — a beleza está em deixá-lo simples, elegante e funcional.</sub>
 </p>
