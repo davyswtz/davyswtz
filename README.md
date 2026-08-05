@@ -10,7 +10,7 @@
 
 ### Sobre
 
-Engenheiro de software com foco em backend, infraestrutura e desenvolvimento mobile nativo. Atuo desde a arquitetura de APIs até o deploy em produção, liderando times técnicos e construindo produtos de ponta a ponta.
+Engenheiro de software com foco em backend, infraestrutura e desenvolvimento mobile nativo.
 
 ### Skills & Tecnologias
 
