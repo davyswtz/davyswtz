@@ -1,30 +1,19 @@
-<p align="center">
-  <img src="assets/hero.svg" alt="davy.dev" width="100%">
-</p>
+<img src="./profile/header.svg" width="100%" alt="davy.dev" />
 
 <br>
 
-### sobre
+Sou estudante de Sistemas de Informação na Univale, em Governador Valadares/MG, e atuo como desenvolvedor full-stack júnior, principalmente com PHP, Laravel, Blade e React Native.
 
-Este é o meu cantinho pessoal. Aqui eu guardo estudos, testes e projetos paralelos, sem pressa e sem pressão de entrega. Aprendo fazendo, quebro, conserto e anoto o que descobri.
-
-### no momento
-
-- estudando e praticando um pouco todo dia
-- montando automações pequenas para facilitar a rotina
-- organizando minhas anotações e projetos em um só lugar
-
-### ferramentas
-
-![PHP](https://img.shields.io/badge/PHP-1c1c1a?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-1c1c1a?style=flat-square&logo=laravel&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-1c1c1a?style=flat-square&logo=react&logoColor=white)
-![Python](https://img.shields.io/badge/Python-1c1c1a?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-1c1c1a?style=flat-square&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-1c1c1a?style=flat-square&logo=mysql&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-1c1c1a?style=flat-square&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-1c1c1a?style=flat-square&logo=git&logoColor=white)
+Este perfil é o meu espaço de estudo: experimentos, automações pequenas e projetos paralelos. Aprendo fazendo, quebrando e consertando.
 
 <br>
 
-<sub>feito com calma · atualizado quando dá</sub>
+<img src="./profile/codigo.svg" width="100%" alt="perfil.js" />
+
+<img src="./profile/status.svg" width="100%" alt="status" />
+
+<img src="./profile/stack.svg" width="100%" alt="stack" />
+
+<img src="./profile/linguagens.svg" width="100%" alt="linguagens" />
+
+<img src="./profile/rodape.svg" width="100%" alt="press start" />
